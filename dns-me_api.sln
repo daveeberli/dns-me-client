@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNS-ME_API", "DNS-ME_API\DNS-ME_API.csproj", "{75B50103-6E2F-4E8D-9CC2-4619D0A48DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "TestClient\TestClient.csproj", "{BCC7FA5E-C122-4287-BE82-0D44D6A4C32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B50103-6E2F-4E8D-9CC2-4619D0A48DBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B50103-6E2F-4E8D-9CC2-4619D0A48DBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B50103-6E2F-4E8D-9CC2-4619D0A48DBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B50103-6E2F-4E8D-9CC2-4619D0A48DBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC7FA5E-C122-4287-BE82-0D44D6A4C32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC7FA5E-C122-4287-BE82-0D44D6A4C32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC7FA5E-C122-4287-BE82-0D44D6A4C32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC7FA5E-C122-4287-BE82-0D44D6A4C32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D3CE65-3F93-47ED-BF53-528C6F6AB5E6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://smart-me.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DNS-ME_API\\DNS-ME_API.csproj
+		SccProjectName1 = DNS-ME_API
+		SccLocalPath1 = DNS-ME_API
+		SccProjectUniqueName2 = TestClient\\TestClient.csproj
+		SccProjectName2 = TestClient
+		SccLocalPath2 = TestClient
+	EndGlobalSection
+EndGlobal
